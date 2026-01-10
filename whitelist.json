@@ -1,7 +1,18 @@
 {
   "User": [
     {
-      "username": "GiveUp8885"
+      "username": "GiveUp8885",
+      "userId": 10320934279
+    },
+    {
+      "username": "YourUsername2",
+      "userId": 987654321
+    },
+    {
+      "username": "AdminUser",
+      "userId": 111222333
     }
-  ]
+  ],
+  "version": "1.0.0",
+  "updated": "2025-01-11"
 }
