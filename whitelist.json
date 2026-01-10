@@ -1,13 +1,12 @@
 {
-  "whitelist": [
-    "Shoutdown888",
-    "PlayerExample1",
-    "PlayerExample2",
-    "YourFriendUsername",
-    "AnotherPlayer",
-    "TestUser123"
-  ],
-  "version": "1.0",
-  "last_updated": "2026-01-10",
-  "note": "Add usernames here to whitelist them"
+  "admins": [
+    {
+      "username": "Admin1",
+      "userid": "123456789"
+    },
+    {
+      "username": "Admin2",
+      "userid": "987654321"
+    }
+  ]
 }
